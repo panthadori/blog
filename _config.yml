@@ -1,19 +1,20 @@
 remote_theme: samarsault/plainwhite-jekyll
 
 plainwhite:
-  name: Dana
-  tagline: blank
+  name: panthadori
+  tagline: a solarpunk idealist
   date_format: "%b %-d, %Y"
-
   social_links:
     github: panthadori
     linkedIn: in/dana-donahue
   portfolio_image: "assets/portfolio.png"
   navigation:
+    - title: home
+      url: "/"
     - title: about
       url: "/about"
-    - title: posts
-      url: "/posts"
+    - title: categories
+      url: "/categories"
   condensed_mobile:
     - home
     - post
