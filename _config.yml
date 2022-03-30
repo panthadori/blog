@@ -1,1 +1,23 @@
 remote_theme: samarsault/plainwhite-jekyll
+
+plainwhite:
+  name: Dana
+  tagline: blank
+  date_format: "%b %-d, %Y"
+
+  social_links:
+    github: panthadori
+    linkedIn: in/dana-donahue
+  portfolio_image: "assets/portfolio.png"
+  navigation:
+    - title: about
+      url: "/about"
+    - title: posts
+      url: "/posts"
+  condensed_mobile:
+    - home
+    - post
+    - page
+  dark_mode: true
+  search: true
+
